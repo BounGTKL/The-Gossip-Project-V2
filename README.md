@@ -1,24 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The Gossip project is a social media platform where everybody can share gossips
 
-Things you may want to cover:
+* Ruby version: 2.5.1
 
-* Ruby version
+* How to run the test suite:
+1- Domwnload the folder
+2- Run $ rails server to get access to the app
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
